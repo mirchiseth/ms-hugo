@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "http://ms.pnarula.com"
+baseurl = "https://mirchiseth.github.io"
 languageCode = "en-us"
 title = "मिर्ची सेठ"
 theme = "hugo-tranquilpeak-theme"
